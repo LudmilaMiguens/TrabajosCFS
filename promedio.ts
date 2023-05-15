@@ -51,3 +51,4 @@ function buscarAlumno (arrA: string[], arrB: number[]): void{
 }
 cargarArreglo(alumno, nota);
 buscarAlumno(alumno, nota);
+// hola
